@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 # Title of the App
 
 st.title ('Salary Predictor')
-st.image ('data//sal.jpg')
+st.image ('data//sal.jpg', use_column_width= True)
 
 # Importing Data
 
