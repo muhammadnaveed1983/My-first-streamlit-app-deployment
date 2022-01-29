@@ -13,7 +13,7 @@ st.image ('data//sal.jpg', use_column_width= True)
 
 # Importing Data
 
-data = pd.read_csv('data//Salary_data.csv')
+data = pd.read_csv('data//Salary_Data.csv')
 
 # Navigation bar
 
